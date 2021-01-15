@@ -1,4 +1,4 @@
-# WeatherChecker
+# Weather Checker
 
 This is a simple weather checking script.
 
